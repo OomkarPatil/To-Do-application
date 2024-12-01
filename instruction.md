@@ -9,3 +9,8 @@ Mark items as completed or undo their completion.
 Edit existing items by clicking "Edit," modifying the text, and saving.
 Delete items using the "Delete" button.
 Attractive styling with responsive design and user-friendly interactions.
+
+GIT REPOSITORIES - {
+    
+    https://github.com/OomkarPatil/To-Do-application.git
+}
